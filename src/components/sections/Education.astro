@@ -1,6 +1,84 @@
 ---
 import Section from "../Section.astro";
+import { education, certificates } from "../../cv.json"
+
 ---
 <Section title="Education">
-    
+    <ul>
+        {
+            education.map(
+                ({institution, startDate, endDate, area}) => {
+                    const startYear = new Date(startDate).getFullYear()
+                    const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual"
+                    const year = `${startYear} - ${endYear}`
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>{institution}</h3>
+                                    </div>
+
+                                    <time>{year}</time>
+                                </header>
+                                <footer>
+                                    <p>{area}</p>   
+                                </footer>
+                            </article>
+                        </li>
+                    )
+                }
+            )
+        }
+    </ul>
+    <br />
+    <h1>Certificaciones</h1>
+    <br />
+    <ul>
+        {
+            certificates.map(
+                ({name, date, issuer}) => {
+                    const year = new Date(date).getFullYear()
+                  
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>{name}</h3>
+                                    </div>
+
+                                    <time>{year}</time>
+                                </header>
+                                <footer>
+                                    <p>{issuer}</p>   
+                                </footer>
+                            </article>
+                        </li>
+                    )
+                }
+            )
+        }
+    </ul>
 </Section>
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    article h3 {
+        font-weight: 500;
+        color: #111;
+    }
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+    time {
+        color: #555;
+        font-size: 0.85rem;
+    }
+</style>

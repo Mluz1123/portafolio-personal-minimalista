@@ -1,62 +1,49 @@
 {
   "basics": {
-    "name": "Mnauel Fernando Quintero Gómez",
-    "label": "Developer Frontend con más de 2 años de experiencia & Developer Frontend Liferay con React.js",
+    "name": "Manuel Fernando Quintero Gómez",
+    "label": "Developer Frontend & Developer Estandar Liferay, DXP y FreeMarker",
     "image": "/manu.webp",
     "email": "maluz@gmail.com",
     "phone": "+57 3124183214",
     "url": "https://midu.dev",
-    "summary": "+2 años de experiencia como Desarrollador Web. Actualmente me desenpeño como Desarrollador Standar Liferay con React.js. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: como especialista en soporte tecnico y desarrollos como freelancer.",
+    "summary": "+2 años de experiencia como Desarrollador Web. Apasionado por la tecnología, con una sólida formación profesional en ingeniería de sistemas, me encuentro en búsqueda de nuevos desafíos que me permitan poner en práctica mis habilidades y contribuir al crecimiento de una empresa innovadora. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: como especialista en soporte técnico y desarrollador estándar Liferay, DXP, FreeMarker.",
     "location": {
       "address": "",
       "postalCode": "110111",
-      "city": "Bogota",
+      "city": "Bogotá",
       "countryCode": "COL",
       "region": "COLOMBIA"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "manu.dev",
+        "url": "https://www.linkedin.com/in/manuel-fernando-quintero-g%C3%B3mez/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "manu.dev",
+        "url": "https://github.com/Mluz1123"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Globalhitss",
+      "position": "Desarrollador Java",
+      "url": "https://globalhitss.com/",
+      "startDate": "2022-06-14",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo de aplicaciones para el portal empresarial de la compañía utilizando, herramientas agiles para la entrega y mejora continua del producto en el portal de gestión de contenidos Liferay DXP, implementando buenas prácticas de codificación y UX con los lenguajes de programación para la parte del frontend como HTML, CSS, Bootstrap y JavaScript y frameworks como React y FreeMarker. ",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Coopidrogas - Cooperativa Nacional de Droguistas Detallistas",
+      "position": "Especialista en soporte técnico",
+      "url": "https://www.coopidrogas.com.co/index.php/en/",
+      "startDate": "2016-05-01",
+      "endDate": "2022-12-29",
+      "summary": "Recibir llamadas, soportar, asesorar, capacitar, canalizar escalar y hacer seguimiento de manera confiable y oportuna, a las solicitudes de servicio relacionadas con los programas de sistematización de droguerías. Soporte de segundo nivel mediante scripts, consultas y update al sistema y a la base de datos de SQL server. Tener una buena atención al cliente, seguimiento de casos y cumplir con los indicadores establecidos. Entrega de informes del área y cierres de mes.",
       "highlights": ["Started the company"]
     }
   ],
@@ -73,30 +60,54 @@
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Corporación Universitaria Remington",
+      "url": "https://www.uniremington.edu.co/",
+      "area": "Ingeniero de Sistemas",
+      "studyType": "Profesional",
+      "startDate": "2016-01-01",
+      "endDate": "2022-12-01",
+      "score": "4.5",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Scrum Developer Certified Expert (SDCE)",
+      "date": "2023-06-01",
+      "issuer": "CerTeach",
+      "url": "https://cursos.certeach.com/"
+    },
+    {
+      "name": "Diplomado en Progrmación en Java",
+      "date": "2023-05-01",
+      "issuer": "Politécnico de Colombia",
+      "url": "https://politecnicodecolombia.edu.co/contable/app/certificados/pages/certificado.php?Id=BObjxze1zGz776PaRKqZ"
+    },
+    {
+      "name": "Certificación en ASP.NET Core MVC 6",
+      "date": "2022-03-01",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-31ba16b3-b9a6-4cb3-8167-7270663c29d4/"
+    },
+    {
+      "name": "Desarrollo de App Móviles",
+      "date": "2022-03-01",
+      "issuer": "Google Actívate",
+      "url": "https://grow.google/"
+    },
+    {
+      "name": "Certificación en Python",
+      "date": "2022-06-01",
+      "issuer": "Next U",
+      "url": "https://www.nextu.com/"
     }
   ],
   "publications": [
@@ -111,17 +122,17 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
@@ -145,7 +156,7 @@
       ]
     },
     {
-      "name": "Node",
+      "name": "SQL",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
@@ -186,7 +197,52 @@
       ]
     },
     {
-      "name": "React",
+      "name": "React.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Angular.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Liferay",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Portlet",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "DXP",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "FreeMarker",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Metodologias Agiles",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Scrum",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
@@ -198,7 +254,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [
@@ -215,51 +271,45 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Gestiona y Planifica Tareas",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
+      "description": "Planifica y gestione sus tareas para una mejor organización del tiempo.",
+      "highlights": ["Planifique y Gestione", "Todo List", "React.js"],
+      "url": "https://teal-bonbon-5ff5e3.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "Cotizador de Seguros para Autos",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Sistema para cotizar seguros de autos, consumo de API externas y validación de planes básico y premium",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "React.js con Vite",
+        "Consumo de API externa",
+        "JavaScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://enchanting-gaufre-f0baff.netlify.app/"
     },
     {
-      "name": "Codember",
+      "name": "Store de Guitarras",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
+      "description": "Espectacular tienda de guitarras completa desde la búsqueda y selección del producto hasta el proceso de almacenarla en el carrito.",
+      "highlights": ["Store", "Next.js", "Despliegue en Vercel"],
+      "url": "https://guitarco-next.vercel.app/",
+      "github": "https://github.com/Mluz1123/guitarco-next/tree/master"
     },
     {
-      "name": "codi.link",
+      "name": "Integración de Shopify con Next.js",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "description": "Integración de comercio electrónico de Shopify con las últimas tecnologías de Vercel y Next.js. Kit de inicio para comercio de altos rendimientos con Shopify.",
+      "highlights": ["Shopify", "Vercel", "Next.js"],
+      "url": "https://commerce2-self-nine.vercel.app/search?q=pantalon"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Cotizador de Criptomonedas",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "Conoce el valor de cada criptomoneda según la moneda deseada al instante.",
+      "highlights": ["JavaScript", "React.js", "APIs"],
+      "url": "https://super-biscuit-dd7659.netlify.app/",
+      "github": "https://github.com/Mluz1123/criptos-react"
     }
   ]
 }
