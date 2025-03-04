@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Manuel Fernando Quintero Gómez",
-    "label": "Developer Frontend & Developer Estandar Liferay, DXP y FreeMarker",
+    "label": "Desarrollador Frontend Semi Senior Especializado en Liferay DXP, Portlet y React.js",
     "image": "/manu.webp",
     "email": "maluz@gmail.com",
     "phone": "+57 3124183214",
     "url": "https://midu.dev",
-    "summary": "+2 años de experiencia como Desarrollador Web. Apasionado por la tecnología, profesional en Ingeniería de Sistemas, me encuentro en búsqueda de nuevos desafíos que me permitan desarrollar mi experiencia y mis habilidades, para contribuir al crecimiento de una empresa innovadora. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: como especialista en soporte técnico y desarrollador estándar Liferay, DXP, FreeMarker y Portlet con React.js. Demostrando una trayectoria de +7 años en el sector IT",
+    "summary": "Ingeniero de Sistemas con +4 años como Desarrollador Web Frontend y +7 años de experiencia en el sector IT. Especialista en implementaciones Liferay DXP, creación de Portlets con React.js y desarrollo de plantillas FreeMarker. Apasionado por crear soluciones web de alto rendimiento y escalables, con sólidas habilidades en JavaScript, HTML5 y CSS3. Orientado a resultados, metodologías ágiles y entrega continua.",
     "location": {
       "address": "",
       "postalCode": "110111",
@@ -29,22 +29,31 @@
   },
   "work": [
     {
+      "name": "Vass Company",
+      "position": "Desarrollador Frontend",
+      "url": "https://vasscompany.com/en/",
+      "startDate": "2024-11-03",
+      "endDate": null,
+      "summary": "Desarrollé e implementé 3 aplicaciones importantes para el portal empresarial del banco utilizando React.js con TypeScript para posteriormente desplegarlas dentro de Liferay DXP 7.4 mediante App Remote, mejorando la experiencia del usuario en un 90% en la generacion de certificados. Desarrollé un microservicio con Node.js para mantener seguras las credenciales de acceso para la optención del token interno del banco. Manteniendo la seguridad en un 100% y no quedando expuestan dentro del frontend. Este microservicio fue desplegado en DXP Cloud",
+      "technologies": "Liferay DXP 7.4, React.js 18, TypeScript, HTML5, CSS3/SASS, Git, REST APIs, Vitest."
+    },
+    {
       "name": "Globalhitss",
-      "position": "Desarrollador Java",
+      "position": "Desarrollador Frontend Liferay",
       "url": "https://globalhitss.com/",
       "startDate": "2022-06-14",
-      "endDate": null,
-      "summary": "Desarrollo de aplicaciones para el portal empresarial de la compañía utilizando, herramientas agiles para la entrega y mejora continua del producto en el portal de gestión de contenidos Liferay DXP, implementando buenas prácticas de codificación y UX, con los lenguajes de programación para la parte del frontend como HTML, CSS, Bootstrap y JavaScript y solido manejo en el frameworks de React.js para la creación de Portlet y FreeMarker en la creacion de plantillas y contenido web. Solido manejo en Git para el control de versiones.",
-      "highlights": ["Started the company"]
+      "endDate": "2024-11-03",
+      "summary": "Desarrollé e implementé 5 aplicaciones críticas para el portal empresarial utilizando Liferay DXP 7.2, mejorando la usabilidad en un 40%. Optimicé el rendimiento del portal reduciendo los tiempos de carga iniciales en un 35% mediante la implementación de Lazy Loading y técnicas de caché avanzadas. Creé 12+ Portlets con React.js para funcionalidades específicas, mejorando la interactividad y experiencia de usuario. Diseñé un sistema de plantillas FreeMarker que redujo el tiempo de desarrollo de nuevas secciones en un 60%.",
+      "technologies": "Liferay DXP 7.2, React.js 17/18, JavaScript ES6+, HTML5, CSS3/SASS, Bootstrap 5, Git, REST APIs."
     },
     {
       "name": "Coopidrogas - Cooperativa Nacional de Droguistas Detallistas",
-      "position": "Especialista en soporte técnico",
+      "position": "Especialista en Soporte Técnico",
       "url": "https://www.coopidrogas.com.co/index.php/en/",
       "startDate": "2016-05-01",
       "endDate": "2022-12-29",
-      "summary": "Recibir llamadas, soportar, asesorar, capacitar, canalizar escalar y hacer seguimiento de manera confiable y oportuna, a las solicitudes de servicio relacionadas con los programas de sistematización de droguerías. Soporte de segundo nivel mediante scripts, consultas y update al sistema y a la base de datos de SQL server. Tener una buena atención al cliente, seguimiento de casos y cumplir con los indicadores establecidos. Entrega de informes del área y cierres de mes.",
-      "highlights": ["Started the company"]
+      "summary": "Lideré la resolución de más de 1,200 incidencias técnicas anuales con un radio de satisfacción del 95%. Desarrollé scripts SQL personalizados que automatizaron procesos de mantenimiento, ahorrando 15 horas semanales al equipo. Implementé un sistema de seguimiento de casos que mejoró los tiempos de respuesta en un 35%. Creé y mantuve documentación técnica que redujo en un 40% el tiempo de capacitación de nuevos especialistas.",
+      "technologies": "SQL Server, T-SQL, .NET, sistemas de tickets, herramientas de monitoreo."
     }
   ],
   "volunteer": [
@@ -80,6 +89,30 @@
   ],
   "certificates": [
     {
+      "name": "Google Cloud Computing Foundations Certificate",
+      "date": "2025-02-01",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/course_templates/153"
+    },
+    {
+      "name": "Desarrollo Web Full Stack",
+      "date": "2024-10-01",
+      "issuer": "Cymetria - El Futuro es Digital",
+      "url": "https://cymetria.com/"
+    },
+    {
+      "name": "DevOps Engineer",
+      "date": "2024-09-01",
+      "issuer": "CertMind",
+      "url": "https://certmind.org/es/home-espanol/"
+    },
+    {
+      "name": "DevOps Fundamentals",
+      "date": "2024-09-01",
+      "issuer": "CertMind",
+      "url": "https://certmind.org/es/home-espanol/"
+    },
+    {
       "name": "Scrum Developer Certified Expert (SDCE)",
       "date": "2023-06-01",
       "issuer": "CerTeach",
@@ -90,24 +123,6 @@
       "date": "2023-05-01",
       "issuer": "Politécnico de Colombia",
       "url": "https://politecnicodecolombia.edu.co/contable/app/certificados/pages/certificado.php?Id=BObjxze1zGz776PaRKqZ"
-    },
-    {
-      "name": "Certificación en ASP.NET Core MVC 6",
-      "date": "2022-03-01",
-      "issuer": "Udemy",
-      "url": "https://www.udemy.com/certificate/UC-31ba16b3-b9a6-4cb3-8167-7270663c29d4/"
-    },
-    {
-      "name": "Desarrollo de App Móviles",
-      "date": "2022-03-01",
-      "issuer": "Google Actívate",
-      "url": "https://grow.google/"
-    },
-    {
-      "name": "Certificación en Python",
-      "date": "2022-06-01",
-      "issuer": "Next U",
-      "url": "https://www.nextu.com/"
     }
   ],
   "publications": [

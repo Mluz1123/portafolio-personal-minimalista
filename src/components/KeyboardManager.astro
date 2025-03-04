@@ -55,7 +55,7 @@ const profileInfo = profiles.map(({network, url}) => {
 })
 ---
 <footer class="no-print">
-    Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> + para abrir la paleta de comandos.
+    Pulsa <kbd>Ctrl</kbd> + <kbd>p</kbd> + para abrir la paleta de comandos.
 </footer>
 
 <ninja-keys data-info={JSON.stringify(profileInfo)} placeholder="Buscar comando" hideBreadcrumbs>
@@ -104,6 +104,14 @@ const profileInfo = profiles.map(({network, url}) => {
 		ninja-keys {
 			display: none !important;
 		}
+
+        @page {
+        padding: 1.6cm;
+        marks: none;
+        margin-top: 0;
+        margin-bottom: 0;
+        }
+
 	}
 
     @keyframes fadeIn {
